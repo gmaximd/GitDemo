@@ -5,5 +5,4 @@
 
 #while True: # bash versio?
 echo "goodbye world"
-echo "Hello World!"
 sleep 10
