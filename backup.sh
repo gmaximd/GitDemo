@@ -4,5 +4,7 @@
 # sleep 60
 
 #while True: # bash versio?
-echo "goodbye world"
+echo "Hello World!"
+echo "This is Amazing World!"
+echo "Good Bye World!"
 sleep 10
